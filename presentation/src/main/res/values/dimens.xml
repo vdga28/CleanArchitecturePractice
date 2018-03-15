@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_primary_height">40dp</dimen>
+    <dimen name="button_primary_radius">40dp</dimen>
+
+    <dimen name="activity_padding_left">32dp</dimen>
+    <dimen name="activity_padding_right">32dp</dimen>
+
+    <dimen name="one_button_margin_bottom">35dp</dimen>
+
+    <dimen name="dialog_padding">10dp</dimen>
+    <dimen name="edit_text_padding">8dp</dimen>
+
+    <dimen name="button_margin_bottom">30dp</dimen>
+
+    <!--default dimens-->
+
+    <dimen name="default_dp_1_1">1dp</dimen>
+    <dimen name="default_dp_1_2">2dp</dimen>
+    <dimen name="default_dp_1_3">3dp</dimen>
+    <dimen name="default_dp_1_4">4dp</dimen>
+    <dimen name="default_dp_1_6">6dp</dimen>
+    <dimen name="default_dp_1_7">7dp</dimen>
+    <dimen name="default_dp_1_8">8dp</dimen>
+
+    <dimen name="default_dp_4_3">12dp</dimen>
+
+    <dimen name="default_dp_5_1">5dp</dimen>
+    <dimen name="default_dp_5_3">15dp</dimen>
+    <dimen name="default_dp_5_5">25dp</dimen>
+    <dimen name="default_dp_5_7">35dp</dimen>
+    <dimen name="default_dp_5_9">45dp</dimen>
+    <dimen name="default_dp_5_11">55dp</dimen>
+    <dimen name="default_dp_5_13">65dp</dimen>
+    <dimen name="default_dp_5_17">85dp</dimen>
+
+    <dimen name="default_dp_10_1">10dp</dimen>
+    <dimen name="default_dp_10_2">20dp</dimen>
+    <dimen name="default_dp_10_3">30dp</dimen>
+    <dimen name="default_dp_10_4">40dp</dimen>
+    <dimen name="default_dp_10_5">50dp</dimen>
+    <dimen name="default_dp_10_6">60dp</dimen>
+    <dimen name="default_dp_10_7">70dp</dimen>
+    <dimen name="default_dp_10_8">80dp</dimen>
+    <dimen name="default_dp_10_9">90dp</dimen>
+    <dimen name="default_dp_10_10">100dp</dimen>
+    <dimen name="default_dp_11_10">110dp</dimen>
+    <dimen name="default_dp_12_10">120dp</dimen>
+    <dimen name="default_dp_20_10">200dp</dimen>
+    <dimen name="default_dp_10_18">180dp</dimen>
+    <dimen name="default_dp_10_15">150dp</dimen>
+    <dimen name="default_dp_10_16">160dp</dimen>
+    <dimen name="default_dp_10_25">250dp</dimen>
+    <dimen name="default_dp_10_27">270dp</dimen>
+    <dimen name="default_dp_10_30">300dp</dimen>
+    <dimen name="default_dp_10_45">450dp</dimen>
+
+    <dimen name="default_sp_4_1">4sp</dimen>
+    <dimen name="default_sp_4_2">8sp</dimen>
+    <dimen name="default_sp_4_3">12sp</dimen>
+    <dimen name="default_sp_5_2">10sp</dimen>
+    <dimen name="default_sp_7_2">14sp</dimen>
+    <dimen name="default_sp_4_4">16sp</dimen>
+    <dimen name="default_sp_4_5">20sp</dimen>
+    <dimen name="default_sp_11_2">22sp</dimen>
+    <dimen name="default_sp_4_6">24sp</dimen>
+    <dimen name="default_sp_4_7">28sp</dimen>
+    <dimen name="default_sp_10_7">70sp</dimen>
+    <dimen name="default_dp_10_12">120dp</dimen>
+    <dimen name="default_dp_10_11">110dp</dimen>
+
+
+</resources>
